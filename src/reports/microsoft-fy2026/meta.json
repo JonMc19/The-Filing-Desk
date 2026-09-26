@@ -1,0 +1,19 @@
+{
+  "slug": "microsoft-fy2026",
+  "company": "Microsoft",
+  "legal_name": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "exchange": "Nasdaq",
+  "period": "Fiscal 2026",
+  "form": "Form 10-K",
+  "published": "2026-09-26",
+  "headline": "Record profit at Microsoft, as data-center spending cuts free cash flow",
+  "seo_title": "Microsoft FY2026 results: record profit, lower free cash flow",
+  "description": "Microsoft's fiscal 2026 annual results from its 10-K: revenue up 17.8% to $331.8 billion, a 46.8% operating margin, and capital spending of $115.9 billion that cut free cash flow to $67.0 billion.",
+  "summary": "Revenue grew 17.8% to $331.8 billion and operating margin hit 46.8%. Capital spending rose 80% to $115.9 billion, so free cash flow fell for a second year.",
+  "figures": [
+    ["Revenue", "$331.8B", "▲ 17.8%", "up"],
+    ["Operating margin", "46.8%", "▲ 1.2 pts", "up"],
+    ["Free cash flow", "$67.0B", "▼ 6.5%", "down"]
+  ]
+}
