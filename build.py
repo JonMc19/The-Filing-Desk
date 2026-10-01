@@ -44,6 +44,7 @@ def page(*, title, description, path, body, current=None, og_type="website", hea
 <link rel="canonical" href="{url}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <meta name="color-scheme" content="light dark">
+<meta name="google-site-verification" content="WHJkGddMUSNiTsVDjDC8w9Yb_SrfJP3h5uKOD-LeO4g">
 <meta property="og:site_name" content="{SITE}">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
